@@ -1,0 +1,12 @@
+#todo-container {
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    gap: 15px; /* Adjust the gap size as needed */
+    padding: 20px;
+    
+};
